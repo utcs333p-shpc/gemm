@@ -1,4 +1,4 @@
-#include "assignment1.h"
+#include "assignment3.h"
 
 void shpc_dgemm( int m, int n, int k,                                            
                     double *A, int rsA, int csA,                                
